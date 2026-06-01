@@ -1,0 +1,25 @@
+jawaban untuk perhitungan subnetting dari IP Address **192.168.50.200 /29**:
+
+**1. Subnet Mask:** **255.255.255.248**
+
+* **Penjelasan:** Prefix `/29` berarti ada 29 bit angka 1 dan 3 bit angka 0 pada deretan biner (11111111.11111111.11111111.11111000). Jika dikonversi ke desimal, nilai oktet terakhir adalah 248.
+
+**2. Network IP:** **192.168.50.200**
+
+* **Penjelasan:** Blok subnet untuk `/29` adalah 8 (didapat dari 256 - 248). Karena angka 200 habis dibagi 8 (8 x 25 = 200), maka IP 192.168.50.200 itu sendiri adalah alamat jaringannya (Network IP).
+
+**3. Broadcast IP:** **192.168.50.207**
+
+* **Penjelasan:** Broadcast IP adalah satu IP sebelum Network IP subnet berikutnya. Karena subnet berikutnya dimulai di 208 (200 + 8), maka Broadcast IP-nya adalah 207.
+
+**4. Rentang Host (Host Range):** **192.168.50.201 - 192.168.50.206**
+
+* **Penjelasan:** Rentang IP yang bisa digunakan (valid host) dimulai dari satu angka setelah Network IP hingga satu angka sebelum Broadcast IP.
+
+**5. Total Host:** **6 Host**
+
+* **Penjelasan:** Rumus mencari total host yang valid adalah 2^y - 2 (y adalah jumlah bit 0 pada subnet mask). Karena ada 3 bit sisa (32 - 29), maka 2^3 - 2 = 8 - 2 = 6 host yang bisa digunakan.
+
+---
+
+Apakah kamu ingin saya membuatkan soal latihan subnetting serupa dengan prefix yang berbeda untuk menguji pemahamanmu?

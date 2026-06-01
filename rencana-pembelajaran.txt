@@ -1,0 +1,15 @@
+Pertemuan 1: Perkenalan
+Pertemuan 2: Crimping Kabel LAN
+Pertemuan 3: Pengenalan IPv4 dan Subnetting
+Pertemuan 4: Static IP dan dynamic IP (Praktik Cisco)
+Pertemuan 5: Static Routing (Praktik Cisco)
+Pertemuan 6: 
+Pertemuan 7: Responsi 1
+
+Pertemuan 8: Dynamic Routing dengan RIP dan OSPF (Praktik Cisco)
+Pertemuan 9: VLAN (Praktik Cisco)
+Pertemuan 10: Inter VLAN Routing (Praktik Cisco)
+Pertemuan 11: NAT (Praktik Cisco)
+Pertemuan 12: SQL Injection
+Pertemuan 13: Responsi 2
+Pertemuan 14: Evaluasi
