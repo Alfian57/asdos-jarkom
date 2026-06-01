@@ -10,6 +10,6 @@ Pertemuan 8: Dynamic Routing dengan RIP dan OSPF (Praktik Cisco)
 Pertemuan 9: VLAN (Praktik Cisco)
 Pertemuan 10: Inter VLAN Routing (Praktik Cisco)
 Pertemuan 11: NAT (Praktik Cisco)
-Pertemuan 12: SQL Injection
+Pertemuan 12: DNS dan ACL (Praktik Cisco)
 Pertemuan 13: Responsi 2
 Pertemuan 14: Evaluasi
